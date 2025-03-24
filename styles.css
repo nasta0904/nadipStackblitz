@@ -197,8 +197,7 @@ figure figcaption {
 	margin-top: 5px;
 }
 
-figure figcaption span {
-	display: block;
+figure div {
 	font-size: 14px;
 	color: #29c5e6;
 }
